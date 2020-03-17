@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConAppReadBlob", "ConAppReadBlob\ConAppReadBlob.csproj", "{45152527-63E7-4C20-9DAC-AC6324518183}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45152527-63E7-4C20-9DAC-AC6324518183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45152527-63E7-4C20-9DAC-AC6324518183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45152527-63E7-4C20-9DAC-AC6324518183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45152527-63E7-4C20-9DAC-AC6324518183}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B12C28F-3C76-4387-B3BC-313D2DEC4076}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://chanmmn.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ConAppReadBlob\\ConAppReadBlob.csproj
+		SccProjectName1 = ConAppReadBlob
+		SccLocalPath1 = ConAppReadBlob
+	EndGlobalSection
+EndGlobal

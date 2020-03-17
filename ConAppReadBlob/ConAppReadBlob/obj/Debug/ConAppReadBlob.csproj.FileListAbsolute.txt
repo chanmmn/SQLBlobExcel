@@ -1,0 +1,7 @@
+E:\dev3\ptp3\ConAppReadBlob\ConAppReadBlob\bin\Debug\ConAppReadBlob.exe.config
+E:\dev3\ptp3\ConAppReadBlob\ConAppReadBlob\bin\Debug\ConAppReadBlob.exe
+E:\dev3\ptp3\ConAppReadBlob\ConAppReadBlob\bin\Debug\ConAppReadBlob.pdb
+E:\dev3\ptp3\ConAppReadBlob\ConAppReadBlob\obj\Debug\ConAppReadBlob.csprojAssemblyReference.cache
+E:\dev3\ptp3\ConAppReadBlob\ConAppReadBlob\obj\Debug\ConAppReadBlob.csproj.CoreCompileInputs.cache
+E:\dev3\ptp3\ConAppReadBlob\ConAppReadBlob\obj\Debug\ConAppReadBlob.exe
+E:\dev3\ptp3\ConAppReadBlob\ConAppReadBlob\obj\Debug\ConAppReadBlob.pdb
